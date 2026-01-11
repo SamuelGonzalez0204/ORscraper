@@ -224,7 +224,7 @@ You can customize the mutations and diagnoses to process by uploading an Excel f
 
 For users who prefer a graphical user interface, ORscraper includes a Shiny app. This app allows you to interact with the data visually, upload clinical reports and save data tables on MongoDB compass local databases.
 
-Access the Shiny app repository: <https://github.com/SamuelGonzalez0204/ORscraper_ShinyApp>
+Access the Shiny app repository: <https://github.com/SamuelGonzalez0204/ORscrapper_ShinyApp>
 
 ## Conclusion
 

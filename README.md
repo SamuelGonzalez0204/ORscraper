@@ -3,6 +3,8 @@
 
 # ORscraper: An R Package for for extracting data from Oncomine Reporter’s clinical reports .
 
+[![CRAN status](https://www.r-pkg.org/badges/version/ORscraper)](https://CRAN.R-project.org/package=ORscraper)
+
 ## Overview
 
 ORscraper is an R package designed to extract relevant medical

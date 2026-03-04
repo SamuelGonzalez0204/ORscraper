@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: González
+  given-names: Samuel
+orcid: https://orcid.org/0009-0007-9531-9821
+title:SamuelGonzalez0204/ORscraper: v0.1.0
+version: CRAN
+date-released: 2026-03-04

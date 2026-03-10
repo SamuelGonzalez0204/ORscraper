@@ -13,5 +13,7 @@
 #'
 #' @export
 extract_chip_id <- function(files) {
-  return(gsub(".*?([0-9]+\\.[0-9]+).*", "\\1", files[grep("\\.pdf$", files)]))
+  pdf_files <- files[grep("\\.pdf$", files)]
+  file_names <- basename(pdf_files)
+  return(gsub(".*?([0-9]+\\.[0-9]+).*", "\\1", file_names))
 }
